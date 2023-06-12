@@ -5,7 +5,7 @@
 - Organization: GetX organizes the code by decoupling of the View, presentation logic, business logic, dependency injection and navigation.
 ## Pillars of GetX
 - State Management: GetX has two different state managers
-    - Simple State management (GetBulder)
+    - Simple State management (GetBuilder)
     - Reactive State manager (GetX)
 - Route Management: If we are using routes/snakebars/dialogs/bottomsheets then GetX is excellent because the mentioned feautures can be used without using context.
 - Dependency Management: GetX has powerful dependency manager that allows us to retrieve the controller by 1 line of code without using Provider Context or InheritedWidget.
